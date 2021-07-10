@@ -24,8 +24,7 @@ The analysis of the election results show that:
     - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     - Raymon Anthong Doane received 3.1% of the vote and 11,606 number of votes.
 4.  The winner of the election was:
-
-    Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
+    - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
 
