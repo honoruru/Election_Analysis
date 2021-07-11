@@ -41,7 +41,7 @@ The process for producing the report would not require staff with computer codin
 
 -	a secured computer environment to ensure that the script is not tampered with, except as authorized by election officials
 
-The “chain of custody” of the “CSV” file produced by the Central Office into the secured computer environment is critical in ensuring the integrity of the election and satisfying regulatory requirements. Once secured in the environment, elections staff would begin the report production process. 
+The “chain of custody” of the “CSV” file produced by the Central Office from production to the secured computer environment is critical in ensuring the integrity of the election and satisfying regulatory requirements. Once secured in the environment, elections staff would begin the report production process. 
 
 A portal would be accessible to only to authorized elections staff to input simple information (name and folder location of “CVS” file) to begin the report generation process.  Vote counts of 500,000 or less have been demonstrated to take less than a second to produce. This portal would be developed by our firm. 
 
