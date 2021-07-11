@@ -50,7 +50,7 @@ NOTE:  The portal described would be an election staff user interface with the e
 ## Challenge Summary
 As montioned, the script could be modified to accomodate different types of elections from Congressional to "Name that Highway.
 
-###Senatorial Election
+### Senatorial Election
 
 In this example, little modification is required as it is assumed that the Senatorial districts are the same counties used in the Congressional election.  It is also assumed that these elections produce only one winner.
 
