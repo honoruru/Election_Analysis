@@ -1,12 +1,14 @@
 # Election_Analysis
 
 ## Project Overview
-The project involved the following tasks:
+The project involved developing a Python script to deliver a report to the Colorado Board of Elections for a U.S. Congressional District election.  The report must include: 
  1. The total number of votes cast
  2. A complete list of candidates who received votes
  3. The percentage of votes each candidate won
  4. The total number of votes each candidate won
  5. The winner of the election based on populare vote.
+
+The report will be used to certify the results of the election. 
 
 ## Resources
  1. Data source:  election_results.csv
