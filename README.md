@@ -31,7 +31,7 @@ The analysis of the election results show that:
 ## Challenge Overview
 Business Proposal
 
-The script developed to certify the results of the current U.S. Congressional District election can be readily applied to other election. This includes municipal, Senatorial, and even Presidential elections. 
+The script developed to certify the results of the current U.S. Congressional District election can be readily applied to other elections. This includes municipal, Senatorial, and even Presidential elections. 
 
 The process for producing the report would not require staff with computer coding skills.  The requirements would be limited to:
 -	a “CSV” file for every vote cast that includes:
