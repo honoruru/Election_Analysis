@@ -48,5 +48,31 @@ A portal would be accessible to only to authorized elections staff to input simp
 NOTE:  The portal described would be an election staff user interface with the election script.  This would control the input to only required and all required fields.  If practicable, input would be by drop-down menu.
 
 ## Challenge Summary
+Examples
+
+Senatorial Election
+
+In this example, little modification is required as it is assumed that the Senatorial districts are the same counties used in the Congressional election.  It is also assumed that these elections produce only one winner.
+
+In this election, the election staff would simply input the exact name and folder location of “CVS” file.
+
+Any Election that does not use County as the Voter Segment
+
+The code would be modified to handle any election with voters segmented into groups other than “county” (e.g., precinct, ward).  This would be accomplished by defining variable for the name of the segment.  Throughout the script, the variable would be inserted wherever “county” appeared.
+
+In these elections, the election staff would also input the exact name of the segment, in addition to the exact name and folder location of “CVS” file.
+
+This would likely be the standard model of the script. 
+
+An Election with Two Winners
+
+For an election with multiple winners such as a primary where each party has a winner, the code would be modified to include the following modifications:
+
+-	party_option list
+-	filter to exclude votes where candidate and party were mismatched (these votes could be tallied and displayed)
+-	selection of candidate with most votes for each party
+
+The results for each party would be displayed separately to show the candidate with the most votes from each party.  
+
 
 
