@@ -58,9 +58,9 @@ In this election, the election staff would simply input the exact name and folde
 
 ### Any Election that does not use County as the Voter Segment
 
-The code would be modified to handle any election with voters segmented into groups other than “county” (e.g., precinct, ward).  This would be accomplished by defining variable for the name of the segment.  Throughout the script, the variable would be inserted wherever “county” appeared.
+The code would be modified to handle any election with voters segmented into groups other than “county” (e.g., precinct, ward).  This would be accomplished by defining a variable for the name of the segment.  Throughout the script, the variable would be inserted wherever “county” appeared.
 
-In these elections, the election staff would also input the exact name of the segment, in addition to the exact name and folder location of “CVS” file.
+In these elections, the election staff would also input the exact name of the segment, in addition to the exact name and folder location of “CVS” file.  We recommend that the variable be input by our firm to eliminate discrepancies and ensure data integity.  
 
 This would likely be the standard model of the script. 
 
