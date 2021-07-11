@@ -35,10 +35,9 @@ The script developed to certify the results of the current U.S. Congressional Di
 
 The process for producing the report would not require staff with computer coding skills.  The requirements would be limited to:
 -	a “CSV” file for every vote cast that includes:
-
-   o	Ballot unique identifier (e.g., Ballot ID)
-   o	Candidate voted for 
-   o	Voter segments, if any (e.g., county, precinct, ward)
+ - Ballot unique identifier (e.g., Ballot ID)
+ - Candidate voted for 
+ - Voter segments, if any (e.g., county, precinct, ward)
 
 -	a secured computer environment to ensure that the script is not tampered with, except as authorized by election officials
 
